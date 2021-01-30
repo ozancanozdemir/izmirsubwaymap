@@ -7,4 +7,4 @@ Here, I use the dataset of subway stations in Izmir and create a map using Leafl
 This is the result, it looks like a plot representing a pure linear relationship huh?
 
 
-
+![Ankara Street Map](https://github.com/ozancanozdemir/izmirsubwaymap/blob/main/izmir.png)
